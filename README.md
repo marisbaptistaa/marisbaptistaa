@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**marisbaptistaa/marisbaptistaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente atuando com **Análise de Dados** e **Suporte Técnico**.
 
-Here are some ideas to get you started:
+Este espaço é onde compartilho meus aprendizados da faculdade, projetos pessoais e estudos complementares. Estou sempre em busca de evoluir, aprender coisas novas e transformar ideias em código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seja bem-vindo(a) ao perfil de uma **iniciante entusiasmada e apaixonada por tecnologia**! 
+
+---
+
+### Em aprendizado | Projetos da faculdade:
+- CSS/HTML
+- JavaScript 
+- C#
+- React Native 
+
+---
+
+### Vamos conectar?
+Sinta-se à vontade para explorar meus repositórios, deixar feedbacks ou entrar em contato!
+
