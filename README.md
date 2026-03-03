@@ -17,6 +17,6 @@ Seja bem-vindo(a) ao perfil de uma **iniciante entusiasmada e apaixonada por tec
 
 ---
 
-### Vamos conectar?
+### Vamos nos conectar?
 Sinta-se à vontade para explorar meus repositórios, deixar feedbacks ou entrar em contato!
 
