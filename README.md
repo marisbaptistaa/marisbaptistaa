@@ -1,6 +1,6 @@
 ### Sobre mim :)
 
-Estudante de Análise e Desenvolvimento de Sistemas, atualmente atuando como Líder de Oprações.
+Estudante de Análise e Desenvolvimento de Sistemas, atualmente trabalhandocomo Líder de Oprações.
 
 Por aqui vou compartilhar meus aprendizados da faculdade e projetos pessoais.
 
