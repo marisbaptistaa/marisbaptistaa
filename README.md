@@ -1,8 +1,9 @@
 ### Sobre mim :)
 
-Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente atuando com **Análise de Dados** e **Suporte Técnico**.
+Olá! 
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente atuando como Líder de Oprações.
 
-Este espaço é onde compartilho meus aprendizados da faculdade, projetos pessoais e estudos complementares. Estou sempre em busca de evoluir, aprender coisas novas e transformar ideias em código.
+Por aqui vou compartilhar meus aprendizados da faculdade e projetos pessoais.
 
 Seja bem-vindo(a) ao perfil de uma **iniciante entusiasmada e apaixonada por tecnologia**! 
 
